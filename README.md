@@ -215,7 +215,7 @@ alt="HCL Technologies"
 
 <br><br>
 
-<b>Process Associate – Supply Chain Analytics</b>
+<b>Associate – Supply Chain Analytics</b>
 
 <br><br>
 
