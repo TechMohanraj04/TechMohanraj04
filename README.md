@@ -1,20 +1,21 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================================================= -->
+
+<!--                    MOHANRAJ D PROFILE                     -->
+
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=Mohanraj%20D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F766E&height=200&section=header&text=Mohanraj%20D&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
     width="100%"
-    alt="Mohanraj D GitHub Header"
+    alt="Mohanraj D GitHub Profile Header"
   />
 </p>
-
-<!-- ========================= INTRO ========================= -->
 
 <p align="center">
   <a href="https://github.com/TechMohanraj04">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Hi+there!+I'm+Mohanraj+D+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Meaningful+Insights+%F0%9F%93%8A"
-      width="100%"
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=Hi%2C+I'm+Mohanraj+D+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Analytics+%7C+Machine+Learning+%7C+AI;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A"
       alt="Typing Introduction"
     />
   </a>
@@ -22,16 +23,13 @@
 
 <p align="center">
   <a href="https://github.com/TechMohanraj04">
-    <img
-      src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-TechMohanraj04-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/TechMohanraj04?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Projects-View-0F766E?style=for-the-badge&logo=github&logoColor=white"
-      alt="Projects"
-    />
+  <a href="https://www.linkedin.com/in/mohan-raj-d-90b52223a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohanraj%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohanrajdeena2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -44,426 +42,315 @@
 
 ---
 
-<!-- ========================= ABOUT ME ========================= -->
+## 👨‍💻 About Me
 
-<h2 align="center">👨‍💻 About Me</h2>
+I am **Mohanraj D**, a **B.Sc. Computer Science graduate** and **Associate – Supply Chain Analytics** at **HCL Technologies**, with a strong interest in transitioning into **Data Analytics and AI-driven roles**.
 
-<p align="center">
-  <i>Turning data into insights and ideas into practical solutions.</i>
-</p>
+I work with data, reporting, business processes, and analytics workflows, while continuously building hands-on projects using **Python, SQL, Excel, Power BI, Machine Learning, Computer Vision, and AI technologies**.
 
-<p align="center">
-  I'm <b>Mohanraj D</b>, a B.Sc. Computer Science graduate with
-  <b>3 years of experience in Supply Chain Analytics at HCL Technologies</b>.
-  I am building my career toward <b>Data Analytics</b>, with hands-on
-  experience in Python, SQL, Excel, Power BI, Machine Learning and
-  data visualization.
-</p>
-
-<p align="center">
-  I enjoy working with data, understanding business problems,
-  building analytical solutions and transforming raw information
-  into meaningful insights.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Role-Supply%20Chain%20Analytics-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/Career%20Goal-Data%20Analyst-0F766E?style=flat-square" />
-</p>
-
----
-
-<!-- ========================= EXPERIENCE ========================= -->
-
-<h2 align="center">💼 Professional Experience</h2>
-
-<p align="center">
-  <b>HCL Technologies</b><br>
-  Associate – Supply Chain Analytics<br>
-  <sub>3 Years of Experience</sub>
-</p>
-
-<p align="center">
-  My experience includes working with supply chain processes,
-  client reporting, data management and analytics-oriented workflows.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Supply%20Chain%20Analytics-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CPFR-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-0F766E?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-334155?style=for-the-badge&logo=powerbi&logoColor=white" />
-</p>
-
----
-
-<!-- ========================= WHAT I WORK WITH ========================= -->
-
-<h2 align="center">📊 What I Work With</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 📈 Data Analytics
-
-Python  
-SQL  
-Microsoft Excel  
-Power BI  
-Pandas  
-NumPy  
-Data Visualization
-
-</td>
-
-<td align="center" width="50%">
-
-### 🤖 Machine Learning & AI
-
-Scikit-learn  
-XGBoost  
-Machine Learning  
-Computer Vision  
-OCR  
-NER  
-Deep Learning
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 🛠️ Development & Deployment
-
-Jupyter Notebook  
-Google Colab  
-Streamlit  
-Git  
-GitHub
-
-</td>
-
-<td align="center" width="50%">
+I enjoy transforming raw data into meaningful insights, building analytical dashboards, developing machine-learning solutions, and creating practical applications that solve real-world problems.
 
 ### 🎯 Career Focus
 
-Data Analyst  
-Junior Data Analyst  
-Reporting / MIS Analyst  
-Business Analytics  
-AI & Data Applications
-
-</td>
-</tr>
-</table>
+* 📊 Data Analyst
+* 📈 Junior Data Analyst
+* 📋 Reporting / MIS Analyst
+* 💼 Business Analyst
+* 🤖 Analytics & AI-oriented roles
 
 ---
 
-<!-- ========================= FEATURED PROJECT ========================= -->
+## 💼 Professional Experience
 
-<h2 align="center">🚀 Featured Project</h2>
+### HCL Technologies
 
-<table align="center" width="90%">
-<tr>
-<td align="center">
+**Process Associate – Supply Chain Analytics**
 
-<h3>🦺 Real-Time Vision AI Safety Monitoring</h3>
+**Experience:** 3 Years
 
-<p>
-A computer vision-based safety monitoring project focused on
-PPE detection and workplace safety compliance using deep learning
-and object detection techniques.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/YOLO-334155?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep%20Learning-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
+* Working with **Supply Chain Analytics and CPFR processes**
+* Preparing and managing **client reports**
+* Working extensively with **Excel and Power BI**
+* Handling and analyzing client data
+* Supporting analytics and reporting workflows
+* Working with enterprise systems including **SAP and Oracle Cloud**
+* Developing a strong understanding of business processes and data-driven decision making
 
 ---
 
-<!-- ========================= PROJECTS ========================= -->
+## 🛠️ Technical Skills
 
-<h2 align="center">📌 Featured Projects</h2>
-
-<table align="center" width="95%">
-
-<tr>
-<td align="center" width="50%">
-
-### 🛒 SellerPath – E-Commerce Funnel Analysis
-
-<b>Excel • SQL • Power BI</b>
+### Programming & Data Analysis
 
 <p>
-Analyzed the customer journey from browsing to cart,
-checkout and purchase, with funnel conversion metrics
-and performance analysis.
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-</td>
-
-<td align="center" width="50%">
-
-### 📦 Amazon India – A Decade of Sales Analytics
-
-<b>Python • Pandas • Power BI</b>
+### Data & Visualization
 
 <p>
-Analyzed Amazon India sales data across multiple years,
-including data quality analysis, sales trends,
-customer analysis and RFM analysis.
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 💳 EMIPredict AI
-
-<b>Python • XGBoost • MLflow • Streamlit</b>
+### Machine Learning & AI
 
 <p>
-A FinTech machine learning project focused on EMI-related
-prediction and risk analysis with model experimentation,
-tracking and interactive deployment.
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5B21B6?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-</td>
-
-<td align="center" width="50%">
-
-### 🚔 PatrolIQ
-
-<b>Python • Clustering • MLflow • Streamlit</b>
+### NLP, OCR & AI Applications
 
 <p>
-Crime analytics project using Chicago crime data for
-exploratory analysis, hotspot identification,
-clustering and interactive visualization.
+  <img src="https://img.shields.io/badge/OCR-374151?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NER-374151?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EasyOCR-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
 </p>
 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 📄 Intelligent Document Processing
-
-<b>Python • OCR • EasyOCR • NER • Streamlit</b>
+### Development & Deployment
 
 <p>
-Document processing application for extracting and
-structuring information from invoices, resumes and
-identification documents.
-</p>
-
-</td>
-
-<td align="center" width="50%">
-
-### 👁️ SmartVision AI
-
-<b>Python • Computer Vision • Deep Learning • YOLO</b>
-
-<p>
-Computer vision project focused on image-based AI
-detection and deep learning experimentation.
-</p>
-
-</td>
-</tr>
-
-</table>
-
----
-
-<!-- ========================= TECH STACK ========================= -->
-
-<h2 align="center">🧰 Tech Stack & Skills</h2>
-
-<h3 align="center">Programming & Data</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-0F766E?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-334155?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0F766E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-334155?style=for-the-badge" />
-</p>
-
-<h3 align="center">Analytics & Visualization</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-0F766E?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-334155?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<h3 align="center">AI / ML / Development</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OCR-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-334155?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
 ---
 
-<!-- ========================= GITHUB ANALYTICS ========================= -->
+# 🚀 Featured Projects
 
-<h2 align="center">📈 GitHub Analytics</h2>
+## 🛒 Amazon India – A Decade of Sales Analytics
+
+**Tech:** `Python` `Pandas` `Data Visualization` `Power BI`
+
+A large-scale sales analytics project analyzing Amazon India sales data across multiple years.
+
+**Key Areas:**
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis
+* Sales trend analysis
+* Customer analysis
+* Product and category analysis
+* RFM analysis
+* Business-oriented visualizations
+* Power BI dashboard development
+
+---
+
+## 💳 EMIPredict AI
+
+**Tech:** `Python` `Machine Learning` `XGBoost` `MLflow` `Streamlit`
+
+An AI-powered financial analytics and prediction project focused on EMI-related risk analysis.
+
+**Key Components:**
+
+* Machine Learning classification
+* Regression modelling
+* XGBoost
+* Model evaluation
+* MLflow experiment tracking
+* Streamlit application
+* Interactive prediction workflow
+
+---
+
+## 🚔 PatrolIQ – Crime Analytics Platform
+
+**Tech:** `Python` `Pandas` `Machine Learning` `Clustering` `MLflow` `Streamlit`
+
+A crime analytics platform designed to analyze historical crime patterns and identify spatial and temporal patterns.
+
+**Key Components:**
+
+* Large-scale crime data processing
+* Exploratory data analysis
+* Crime hotspot analysis
+* K-Means clustering
+* DBSCAN
+* Temporal pattern analysis
+* MLflow experiment tracking
+* Interactive Streamlit dashboard
+
+---
+
+## 📄 Intelligent Document Processing
+
+**Tech:** `Python` `OCR` `EasyOCR` `NER` `Streamlit`
+
+An intelligent document processing application designed to extract and structure information from documents.
+
+**Key Components:**
+
+* Document preprocessing
+* OCR-based text extraction
+* Text cleaning
+* Named Entity Recognition
+* Structured information extraction
+* Streamlit dashboard
+* Document analysis workflow
+
+---
+
+## 🦺 Real-Time Vision AI Safety Monitoring
+
+**Tech:** `Python` `YOLO` `Computer Vision` `Deep Learning`
+
+A computer-vision project focused on detecting workplace safety conditions using object detection.
+
+**Focus Areas:**
+
+* PPE detection
+* Helmet detection
+* Safety vest detection
+* Gloves detection
+* Boots detection
+* Goggles detection
+* Safety compliance monitoring
+* Real-time computer vision
+
+---
+
+## 👁️ SmartVision AI
+
+**Tech:** `Python` `Computer Vision` `Deep Learning` `YOLO`
+
+A deep-learning computer vision project focused on image-based object and safety-related detection.
+
+---
+
+# 📈 Analytics & Machine Learning Workflow
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Feature Engineering
+   ↓
+Data Visualization
+   ↓
+Machine Learning
+   ↓
+Model Evaluation
+   ↓
+Deployment
+   ↓
+Business Insights
+```
+
+---
+
+# 🧰 Tools & Technologies
+
+| Category           | Technologies                   |
+| ------------------ | ------------------------------ |
+| Programming        | Python, SQL                    |
+| Data Analysis      | Pandas, NumPy                  |
+| Visualization      | Power BI, Excel, Matplotlib    |
+| Machine Learning   | Scikit-learn, XGBoost          |
+| Computer Vision    | YOLO, OpenCV                   |
+| NLP / Document AI  | OCR, EasyOCR, NER              |
+| Deployment         | Streamlit                      |
+| MLOps              | MLflow                         |
+| Development        | Jupyter Notebook, Google Colab |
+| Version Control    | Git, GitHub                    |
+| Enterprise Systems | SAP, Oracle Cloud              |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=TechMohanraj04&show_icons=true&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8&border_color=334155&border_radius=10"
-    width="48%"
-    alt="GitHub Stats"
+    src="https://github-readme-stats-fast.vercel.app/api?username=TechMohanraj04&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Statistics"
   />
-
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TechMohanraj04&layout=compact&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&border_color=334155&border_radius=10"
-    width="40%"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TechMohanraj04&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=TechMohanraj04&theme=dark&hide_border=false&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=94a3b8"
-    width="55%"
+    src="https://streak-stats.demolab.com?user=TechMohanraj04&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 ---
 
-<!-- ========================= CONTRIBUTION ========================= -->
-
-<h2 align="center">🐍 Contribution Journey</h2>
+# 🐍 Contribution Activity
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
+    src="https://raw.githubusercontent.com/TechMohanraj04/TechMohanraj04/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
 
 ---
 
-<!-- ========================= CURRENT FOCUS ========================= -->
+# 🎯 Current Focus
 
-<h2 align="center">🎯 Current Focus</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-📊<br>
-<b>Data Analytics</b>
-
-</td>
-
-<td align="center" width="25%">
-
-🐍<br>
-<b>Python & SQL</b>
-
-</td>
-
-<td align="center" width="25%">
-
-📈<br>
-<b>Power BI</b>
-
-</td>
-
-<td align="center" width="25%">
-
-🤖<br>
-<b>AI & ML</b>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  Continuously building practical projects and strengthening
-  my analytical, technical and problem-solving skills.
-</p>
+* 📊 Building practical **Data Analytics projects**
+* 🐍 Strengthening **Python & SQL**
+* 📈 Developing advanced **Power BI dashboards**
+* 🤖 Applying **Machine Learning and AI**
+* 👁️ Exploring **Computer Vision**
+* 📄 Building **Intelligent Document Processing solutions**
+* 🚀 Deploying practical AI/analytics applications
+* 💼 Preparing for **Data Analyst opportunities**
 
 ---
 
-<!-- ========================= CAREER ========================= -->
+# 🌱 Career Objective
 
-<h2 align="center">💡 Career Goal</h2>
-
-<p align="center">
-  <b>Data Analyst</b>
-</p>
-
-<p align="center">
-  My goal is to build data-driven solutions that connect
-  business problems with meaningful insights using
-  analytics, visualization and AI.
-</p>
+> **To build a career in Data Analytics by combining business understanding, analytical thinking, programming, visualization, and AI/ML capabilities to create data-driven solutions that deliver measurable business value.**
 
 ---
 
-<!-- ========================= CONNECT ========================= -->
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-  I'm interested in opportunities, projects and discussions
-  related to Data Analytics, Business Intelligence,
-  Machine Learning and AI.
-</p>
+# 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/TechMohanraj04">
-    <img
-      src="https://img.shields.io/badge/GitHub-TechMohanraj04-18181B?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-TechMohanraj04-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohan-raj-d-90b52223a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohanraj%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohanrajdeena2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohanrajdeena2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<!-- Add LinkedIn / Email / Resume only when the actual links are available -->
+<p align="center">
+  <i>Open to learning, collaboration, and opportunities in Data Analytics & AI.</i>
+</p>
 
 ---
 
 <p align="center">
-  <i>“Turning data into insights, one project at a time.”</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
-<!-- ========================= FOOTER ========================= -->
-
-<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:1E293B,100:0F172A&height=120&section=footer"
     width="100%"
     alt="Footer"
   />
