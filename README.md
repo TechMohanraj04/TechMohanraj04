@@ -1,913 +1,808 @@
 <!-- ========================================================= -->
-<!--                 MOHANRAJ D | GITHUB PROFILE               -->
+<!--                    MOHANRAJ D | PROFILE                   -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:111827,50:172554,75:312E81,100:0F766E&height=220&section=header&text=Mohanraj%20D&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:172554,75:312E81,100:0F766E&height=230&section=header&text=MOHANRAJ%20D&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
     width="100%"
     alt="Mohanraj D Header"
   />
 </p>
 
-<!-- ======================== TYPING ========================= -->
-
-<p align="center">
-  <a href="https://github.com/TechMohanraj04">
-    <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=42&lines=Hi+there!+I'm+Mohanraj+D+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI+%F0%9F%93%8A;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Computer+Vision+%26+Data+Analytics+%F0%9F%94%8D;Turning+data+into+actionable+insights+%E2%9A%A1"
-      width="100%"
-      style="max-width: 700px;"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
-<!-- ======================== SOCIALS ======================== -->
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/mohan-raj-d-90b52223/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:mohanrajdeena2002@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A"
-      alt="Email"
-    />
-  </a>
-
-  <a href="https://github.com/TechMohanraj04" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-34D399?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"
-      alt="GitHub"
-    />
-  </a>
-
-</p>
-
-<!-- ===================== PROFILE VIEWS ===================== -->
+<!-- ======================== INTRO =========================== -->
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=TechMohanraj04&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
-
-<br />
-
-<!-- ======================== ABOUT ME ======================== -->
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&height=28&lines=Driven+by+curiosity.+Building+with+data.+Creating+with+AI."
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=820&height=45&lines=Hi%2C+I'm+Mohanraj+D+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+AI+%7C+Computer+Vision;Building+Data-Driven+Solutions+%F0%9F%93%8A;Turning+Raw+Data+into+Meaningful+Insights+%E2%9A%A1"
     width="100%"
-    style="max-width: 650px;"
-    alt="About Me Typing Quote"
+    style="max-width: 820px;"
+    alt="Typing Introduction"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/5e25aUTbQ1u9i/giphy.gif"
-    width="340"
-    style="max-width: 100%; border-radius: 12px;"
-    alt="Data Analytics Animation"
-  />
-</p>
-
-<p align="center">
-  Hey! I'm <b>Mohanraj D</b>, a B.Sc. Computer Science graduate
-  working in <b>Supply Chain Analytics</b> and building my career
-  toward <b>Data Analytics and AI</b>.
-</p>
-
-<p align="center">
-  I work with <b>Python, SQL, Excel, Power BI, Machine Learning,
-  Computer Vision and AI</b> to explore data, build analytical solutions,
-  create dashboards and develop practical machine learning applications.
-</p>
-
-<p align="center">
-  My project work covers areas such as
-  <b>Sales Analytics, Financial Risk Prediction, Crime Analytics,
-  Intelligent Document Processing and Computer Vision</b>.
-</p>
-
-<!-- ======================== STATUS ========================== -->
+<!-- ======================== SOCIAL ========================== -->
 
 <p align="center">
 
-  <img
-    src="https://img.shields.io/badge/Status-Building%20%26%20Learning-0A0A0A?style=flat-square"
-    alt="Status"
-  />
+<a href="https://www.linkedin.com/in/mohan-raj-d-90b52223/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn"/>
+</a>
 
-  <img
-    src="https://img.shields.io/badge/Degree-B.Sc.%20Computer%20Science-38BDF8?style=flat-square"
-    alt="Degree"
-  />
+<a href="mailto:mohanrajdeena2002@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" alt="Email"/>
+</a>
 
-  <img
-    src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20AI-A78BFA?style=flat-square"
-    alt="Focus"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Location-Chennai%2C%20India-34D399?style=flat-square"
-    alt="Location"
-  />
+<a href="https://github.com/TechMohanraj04" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-Explore-34D399?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub"/>
+</a>
 
 </p>
 
 <p align="center">
-  <b>Core Focus:</b> Data Analytics • Business Intelligence • Machine Learning • AI
-  <br />
-  <b>Analytics:</b> Python • SQL • Excel • Power BI • Pandas • NumPy
-  <br />
-  <b>AI:</b> Machine Learning • XGBoost • Computer Vision • OCR • NER
+<img src="https://komarev.com/ghpvc/?username=TechMohanraj04&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                       ABOUT ME                             -->
+<!-- ========================================================= -->
+
+<h2 align="center">👋 ABOUT ME</h2>
+
+<p align="center">
+<img
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=760&height=30&lines=Curious+about+data.+Passionate+about+technology.+Focused+on+growth."
+width="100%"
+style="max-width:760px;"
+alt="About Me Quote"
+/>
 </p>
 
 <p align="center">
-  <i>
-    "Turning raw data into meaningful insights and practical solutions."
-  </i>
+  <b>Hi, I'm Mohanraj D.</b>
 </p>
 
-<!-- ===================== PROFILE SNAPSHOT ================== -->
+<p align="center">
+  I'm a <b>B.Sc. Computer Science graduate</b> currently working
+  in <b>Supply Chain Analytics</b> and building my professional
+  journey toward <b>Data Analytics and AI</b>.
+</p>
 
-<h2 align="center">📌 Profile Snapshot</h2>
+<p align="center">
+  My work and projects combine
+  <b>Python, SQL, Excel, Power BI, Machine Learning and Computer Vision</b>
+  to transform data into useful insights and practical solutions.
+</p>
 
-<table width="100%" border="0" align="center">
+<p align="center">
+  I enjoy working across the complete analytics journey —
+  <b>understanding data → cleaning → analyzing → visualizing →
+  extracting insights → building intelligent solutions.</b>
+</p>
 
-  <tr>
+<br>
 
-    <td width="50%" align="center" style="padding: 18px;">
+<!-- ====================== IDENTITY ========================== -->
 
-      <h4>📊 Data Analytics</h4>
+<p align="center">
 
-      <p>
-        <b>Python • SQL • Excel • Power BI</b>
-        <br />
-        <sub>Data cleaning, analysis, visualization & reporting</sub>
-      </p>
+<img src="https://img.shields.io/badge/ROLE-Data%20Analytics-38BDF8?style=flat-square&labelColor=020617" />
 
-    </td>
+<img src="https://img.shields.io/badge/AI-Machine%20Learning-A78BFA?style=flat-square&labelColor=020617" />
 
-    <td width="50%" align="center" style="padding: 18px;">
+<img src="https://img.shields.io/badge/BI-Power%20BI-FBBF24?style=flat-square&labelColor=020617" />
 
-      <h4>🤖 AI & Machine Learning</h4>
+<img src="https://img.shields.io/badge/FOCUS-Data%20Driven%20Solutions-34D399?style=flat-square&labelColor=020617" />
 
-      <p>
-        <b>ML • XGBoost • Computer Vision</b>
-        <br />
-        <sub>Building practical AI and predictive solutions</sub>
-      </p>
+</p>
 
-    </td>
+<!-- ========================================================= -->
+<!--                 WHAT I BRING TO THE TABLE                 -->
+<!-- ========================================================= -->
 
-  </tr>
+<h2 align="center">⚡ WHAT I BRING</h2>
 
-  <tr>
+<table width="100%" border="0">
 
-    <td width="50%" align="center" style="padding: 18px;">
+<tr>
 
-      <h4>🏢 Professional Experience</h4>
+<td width="33%" align="center" style="padding:20px">
 
-      <p>
-        <b>Supply Chain Analytics</b>
-        <br />
-        <sub>Reporting, client data & analytical processes</sub>
-      </p>
+<h2>📊</h2>
 
-    </td>
+<h3>DATA</h3>
 
-    <td width="50%" align="center" style="padding: 18px;">
+<p>
+Python<br>
+SQL<br>
+Excel<br>
+Pandas<br>
+NumPy
+</p>
 
-      <h4>🎯 Career Direction</h4>
+</td>
 
-      <p>
-        <b>Data Analyst</b>
-        <br />
-        <sub>Growing toward Analytics & AI-focused roles</sub>
-      </p>
+<td width="33%" align="center" style="padding:20px">
 
-    </td>
+<h2>📈</h2>
 
-  </tr>
+<h3>INSIGHTS</h3>
+
+<p>
+Power BI<br>
+EDA<br>
+Visualization<br>
+Reporting<br>
+Business Analysis
+</p>
+
+</td>
+
+<td width="33%" align="center" style="padding:20px">
+
+<h2>🤖</h2>
+
+<h3>AI</h3>
+
+<p>
+Machine Learning<br>
+XGBoost<br>
+Computer Vision<br>
+OCR<br>
+NER
+</p>
+
+</td>
+
+</tr>
 
 </table>
 
-<!-- ======================== EXPERIENCE ====================== -->
+<br>
 
-<h2 align="center">💼 Professional Experience</h2>
+<!-- ========================================================= -->
+<!--                    PROFESSIONAL SIDE                       -->
+<!-- ========================================================= -->
+
+<h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
 
 <p align="center">
 
-  <img
-    src="https://img.shields.io/badge/HCL%20Technologies-Supply%20Chain%20Analytics-38BDF8?style=for-the-badge&logo=hcl&logoColor=white&labelColor=0A0A0A"
-    alt="HCL Technologies"
-  />
+<img
+src="https://img.shields.io/badge/HCL%20Technologies-Supply%20Chain%20Analytics-38BDF8?style=for-the-badge&logo=hcl&logoColor=white&labelColor=020617"
+alt="HCL Technologies"
+/>
 
 </p>
 
 <p align="center">
-  <b>Process / Associate – Supply Chain Analytics</b>
+<b>Process Associate – Supply Chain Analytics</b>
 </p>
 
 <p align="center">
-  Working with business and client data while supporting
-  <b>reporting, analytics, CPFR and supply chain processes</b>.
+Working with business and client data across
+<b>reporting, supply chain analytics, CPFR and operational processes.</b>
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Excel-Analytics-34D399?style=flat-square&logo=microsoftexcel&logoColor=white"
-    alt="Excel"
-  />
 
-  <img
-    src="https://img.shields.io/badge/Power%20BI-Reporting-FBBF24?style=flat-square&logo=powerbi&logoColor=white"
-    alt="Power BI"
-  />
+<img src="https://img.shields.io/badge/Excel-Reporting-34D399?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
-  <img
-    src="https://img.shields.io/badge/SAP-Business%20Process-A78BFA?style=flat-square&logo=sap&logoColor=white"
-    alt="SAP"
-  />
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-FBBF24?style=flat-square&logo=powerbi&logoColor=white"/>
 
-  <img
-    src="https://img.shields.io/badge/Oracle%20Cloud-ERP-38BDF8?style=flat-square&logo=oracle&logoColor=white"
-    alt="Oracle Cloud"
-  />
+<img src="https://img.shields.io/badge/SAP-Process%20Analytics-A78BFA?style=flat-square&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle%20Cloud-ERP-38BDF8?style=flat-square&logo=oracle&logoColor=white"/>
 
 </p>
 
-<!-- ===================== FEATURED PROJECT ================== -->
+<!-- ========================================================= -->
+<!--                    PROJECT SHOWCASE                        -->
+<!-- ========================================================= -->
 
-<h2 align="center">🔥 Featured Project Spotlight</h2>
+<h2 align="center">🚀 PROJECT SHOWCASE</h2>
 
-<table width="100%" border="0" align="center">
+<p align="center">
+<i>
+I don't just learn technologies — I use them to build projects.
+</i>
+</p>
 
-  <tr>
+<table width="100%" border="0">
 
-    <td align="center" style="padding: 22px;">
+<tr>
 
-      <h3>📊 Amazon India – A Decade of Sales Analytics</h3>
+<td width="50%" valign="top" style="padding:22px">
 
-      <p>
-        <i>
-          An end-to-end sales analytics project focused on exploring
-          e-commerce sales data, identifying patterns, analyzing customers
-          and generating business-oriented insights.
-        </i>
-      </p>
+<h3 align="center">📊 AMAZON INDIA</h3>
 
-      <br />
+<p align="center">
+<b>A Decade of Sales Analytics</b>
+</p>
 
-      <p>
+<p align="center">
+An end-to-end analytics project exploring
+sales trends, customer behavior, RFM analysis
+and business insights.
+</p>
 
-        <img
-          src="https://img.shields.io/badge/Python-Data%20Analysis-38BDF8?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A"
-          alt="Python"
-        />
+<p align="center">
+<img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-A78BFA?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-FBBF24?style=flat-square&logo=powerbi&logoColor=white"/>
+</p>
 
-        <img
-          src="https://img.shields.io/badge/Pandas-Data%20Processing-A78BFA?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0A0A0A"
-          alt="Pandas"
-        />
+</td>
 
-        <img
-          src="https://img.shields.io/badge/Power%20BI-Dashboard-FBBF24?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0A0A0A"
-          alt="Power BI"
-        />
+<td width="50%" valign="top" style="padding:22px">
 
-      </p>
+<h3 align="center">💳 EMIPREDICT AI</h3>
 
-    </td>
+<p align="center">
+<b>Financial Risk Prediction</b>
+</p>
 
-  </tr>
+<p align="center">
+Machine learning solution involving
+classification, regression, XGBoost,
+MLflow experimentation and Streamlit deployment.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-34D399?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLflow-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FB7185?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" style="padding:22px">
+
+<h3 align="center">🚨 PATROLIQ</h3>
+
+<p align="center">
+<b>Crime Analytics Platform</b>
+</p>
+
+<p align="center">
+Data analytics and clustering platform
+for exploring crime patterns, hotspots
+and temporal behavior.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-A78BFA?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clustering-34D399?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLflow-FBBF24?style=flat-square"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top" style="padding:22px">
+
+<h3 align="center">📄 INTELLIGENT DOCUMENT PROCESSING</h3>
+
+<p align="center">
+<b>OCR & Information Extraction</b>
+</p>
+
+<p align="center">
+Document intelligence pipeline involving
+OCR, text cleaning, NER and structured
+information extraction.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCR-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/NER-34D399?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FB7185?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" style="padding:22px">
+
+<h3 align="center">🦺 REAL-TIME VISION AI</h3>
+
+<p align="center">
+<b>Safety Monitoring System</b>
+</p>
+
+<p align="center">
+Computer vision system designed around
+PPE and workplace safety detection using
+deep learning and YOLO.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-34D399?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-F97316?style=flat-square"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top" style="padding:22px">
+
+<h3 align="center">👁️ SMARTVISION AI</h3>
+
+<p align="center">
+<b>Computer Vision Application</b>
+</p>
+
+<p align="center">
+Deep learning and computer vision project
+focused on image-based AI applications.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-34D399?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLO-F97316?style=flat-square"/>
+</p>
+
+</td>
+
+</tr>
 
 </table>
 
-<!-- ======================== PROJECTS ======================== -->
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
 
-<h2 align="center">🚀 Project Portfolio</h2>
-
-<table width="100%" border="0" align="center">
-
-  <tr>
-
-    <td width="50%" valign="top" style="padding: 18px;">
-
-      <h3 align="center">📊 Amazon India</h3>
-
-      <p align="center">
-        <b>A Decade of Sales Analytics</b>
-      </p>
-
-      <p align="center">
-        Sales analysis, customer behavior, RFM analysis,
-        visualization and Power BI reporting.
-      </p>
-
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-A78BFA?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power%20BI-FBBF24?style=flat-square&logo=powerbi&logoColor=white" />
-      </p>
-
-    </td>
-
-    <td width="50%" valign="top" style="padding: 18px;">
-
-      <h3 align="center">💳 EMIPredict AI</h3>
-
-      <p align="center">
-        <b>Financial Risk Prediction</b>
-      </p>
-
-      <p align="center">
-        Machine learning project for EMI-related prediction
-        using classification, regression and XGBoost.
-      </p>
-
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/XGBoost-34D399?style=flat-square" />
-        <img src="https://img.shields.io/badge/MLflow-A78BFA?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streamlit-FB7185?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-
-    </td>
-
-  </tr>
-
-  <tr>
-
-    <td width="50%" valign="top" style="padding: 18px;">
-
-      <h3 align="center">🚨 PatrolIQ</h3>
-
-      <p align="center">
-        <b>Crime Analytics Platform</b>
-      </p>
-
-      <p align="center">
-        Crime data exploration, clustering, hotspot analysis,
-        temporal analysis and machine learning workflows.
-      </p>
-
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Clustering-A78BFA?style=flat-square" />
-        <img src="https://img.shields.io/badge/MLflow-34D399?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streamlit-FB7185?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-
-    </td>
-
-    <td width="50%" valign="top" style="padding: 18px;">
-
-      <h3 align="center">📄 Intelligent Document Processing</h3>
-
-      <p align="center">
-        <b>OCR & Information Extraction</b>
-      </p>
-
-      <p align="center">
-        Document processing workflow using OCR,
-        text cleaning, NER and structured information extraction.
-      </p>
-
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/EasyOCR-A78BFA?style=flat-square" />
-        <img src="https://img.shields.io/badge/NER-34D399?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streamlit-FB7185?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-
-    </td>
-
-  </tr>
-
-  <tr>
-
-    <td width="50%" valign="top" style="padding: 18px;">
-
-      <h3 align="center">🦺 Real-Time Vision AI</h3>
-
-      <p align="center">
-        <b>Safety Monitoring System</b>
-      </p>
-
-      <p align="center">
-        Computer vision project focused on detecting
-        workplace safety-related objects and PPE conditions.
-      </p>
-
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLO-A78BFA?style=flat-square" />
-        <img src="https://img.shields.io/badge/Computer%20Vision-34D399?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deep%20Learning-F97316?style=flat-square" />
-      </p>
-
-    </td>
-
-    <td width="50%" valign="top" style="padding: 18px;">
-
-      <h3 align="center">👁️ SmartVision AI</h3>
-
-      <p align="center">
-        <b>Computer Vision Application</b>
-      </p>
-
-      <p align="center">
-        Deep learning and computer vision experimentation
-        for image-based AI applications.
-      </p>
-
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Computer%20Vision-A78BFA?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deep%20Learning-34D399?style=flat-square" />
-        <img src="https://img.shields.io/badge/YOLO-F97316?style=flat-square" />
-      </p>
-
-    </td>
-
-  </tr>
-
-</table>
-
-<!-- ====================== TECH STACK ======================== -->
-
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<h2 align="center">🧠 TECHNOLOGY STACK</h2>
 
 <p align="center">
-  <b>Programming & Data Analysis</b>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=python,mysql,git,github&theme=dark"
-      width="100%"
-      style="max-width: 320px;"
-      alt="Programming and Data Tools"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <b>Analytics & Business Intelligence</b>
+<b>Data Analytics & Programming</b>
 </p>
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-34D399?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0A0A0A" alt="Excel" />
-
-  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-FBBF24?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0A0A0A" alt="Power BI" />
-
-  <img src="https://img.shields.io/badge/SQL-Analytics-38BDF8?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0A0A0A" alt="SQL" />
-
-</p>
-
-<p align="center">
-  <b>Python Data Ecosystem</b>
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=A78BFA" alt="Pandas" />
-
-  <img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=38BDF8" alt="NumPy" />
-
-  <img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=python&logoColor=34D399" alt="Matplotlib" />
-
-  <img src="https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=FBBF24" alt="Scikit-Learn" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github&theme=dark"
+width="100%"
+style="max-width:330px"
+alt="Programming Skills"/>
 
 </p>
 
 <p align="center">
-  <b>Machine Learning & AI</b>
-</p>
 
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Machine%20Learning-38BDF8?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=0A0A0A" alt="Machine Learning" />
-
-  <img src="https://img.shields.io/badge/XGBoost-34D399?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=0A0A0A" alt="XGBoost" />
-
-  <img src="https://img.shields.io/badge/Computer%20Vision-A78BFA?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0A0A0A" alt="Computer Vision" />
-
-  <img src="https://img.shields.io/badge/OCR-F97316?style=for-the-badge&logo=googlelens&logoColor=white&labelColor=0A0A0A" alt="OCR" />
+<img src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/SQL-A78BFA?style=for-the-badge&logo=mysql&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Excel-34D399?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Power%20BI-FBBF24?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=020617"/>
 
 </p>
 
 <p align="center">
-  <b>Development & Deployment</b>
+<b>Python Data Ecosystem</b>
 </p>
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Streamlit-0A0A0A?style=for-the-badge&logo=streamlit&logoColor=FB7185" alt="Streamlit" />
-
-  <img src="https://img.shields.io/badge/Jupyter-0A0A0A?style=for-the-badge&logo=jupyter&logoColor=F97316" alt="Jupyter" />
-
-  <img src="https://img.shields.io/badge/Google%20Colab-0A0A0A?style=for-the-badge&logo=googlecolab&logoColor=FBBF24" alt="Google Colab" />
-
-  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F97316" alt="Git" />
+<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=python&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=FBBF24"/>
 
 </p>
 
-<!-- ==================== ANALYTICS WORKFLOW ================= -->
+<p align="center">
+<b>Machine Learning & AI</b>
+</p>
 
-<h2 align="center">📈 Analytics Workflow</h2>
+<p align="center">
 
-<table width="100%" border="0" align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-38BDF8?style=for-the-badge&labelColor=020617"/>
 
-  <tr>
+<img src="https://img.shields.io/badge/XGBoost-34D399?style=for-the-badge&labelColor=020617"/>
 
-    <td align="center" width="20%" style="padding: 12px;">
-      <h4>01</h4>
-      <b>Collect</b>
-      <br />
-      <sub>Data Sources</sub>
-    </td>
+<img src="https://img.shields.io/badge/Computer%20Vision-A78BFA?style=for-the-badge&logo=opencv&logoColor=white&labelColor=020617"/>
 
-    <td align="center" width="20%" style="padding: 12px;">
-      <h4>02</h4>
-      <b>Clean</b>
-      <br />
-      <sub>Data Preparation</sub>
-    </td>
+<img src="https://img.shields.io/badge/OCR-F97316?style=for-the-badge&labelColor=020617"/>
 
-    <td align="center" width="20%" style="padding: 12px;">
-      <h4>03</h4>
-      <b>Analyze</b>
-      <br />
-      <sub>EDA & SQL</sub>
-    </td>
+<img src="https://img.shields.io/badge/NER-FB7185?style=for-the-badge&labelColor=020617"/>
 
-    <td align="center" width="20%" style="padding: 12px;">
-      <h4>04</h4>
-      <b>Visualize</b>
-      <br />
-      <sub>Dashboards</sub>
-    </td>
+</p>
 
-    <td align="center" width="20%" style="padding: 12px;">
-      <h4>05</h4>
-      <b>Communicate</b>
-      <br />
-      <sub>Insights</sub>
-    </td>
+<p align="center">
+<b>Development & Deployment</b>
+</p>
 
-  </tr>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Streamlit-0A0A0A?style=for-the-badge&logo=streamlit&logoColor=FB7185"/>
+
+<img src="https://img.shields.io/badge/Jupyter-0A0A0A?style=for-the-badge&logo=jupyter&logoColor=F97316"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-0A0A0A?style=for-the-badge&logo=googlecolab&logoColor=FBBF24"/>
+
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F97316"/>
+
+</p>
+
+<!-- ========================================================= -->
+<!--                    MY WORKFLOW                            -->
+<!-- ========================================================= -->
+
+<h2 align="center">🔄 HOW I WORK WITH DATA</h2>
+
+<table width="100%" border="0">
+
+<tr>
+
+<td align="center" width="20%" style="padding:15px">
+
+<h2>01</h2>
+<b>UNDERSTAND</b>
+<br>
+<sub>Business Problem</sub>
+
+</td>
+
+<td align="center" width="20%" style="padding:15px">
+
+<h2>02</h2>
+<b>PREPARE</b>
+<br>
+<sub>Clean & Transform</sub>
+
+</td>
+
+<td align="center" width="20%" style="padding:15px">
+
+<h2>03</h2>
+<b>ANALYZE</b>
+<br>
+<sub>EDA & SQL</sub>
+
+</td>
+
+<td align="center" width="20%" style="padding:15px">
+
+<h2>04</h2>
+<b>VISUALIZE</b>
+<br>
+<sub>Dashboards</sub>
+
+</td>
+
+<td align="center" width="20%" style="padding:15px">
+
+<h2>05</h2>
+<b>INSIGHT</b>
+<br>
+<sub>Actionable Findings</sub>
+
+</td>
+
+</tr>
 
 </table>
 
 <p align="center">
+<i>
+Understand the problem → Work with the data → Discover patterns → Communicate insights.
+</i>
+</p>
 
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Pandas-38BDF8?style=flat-square&logo=pandas&logoColor=white" />
+<!-- ========================================================= -->
+<!--                  GITHUB ANALYTICS                         -->
+<!-- ========================================================= -->
 
-  <img src="https://img.shields.io/badge/EDA-Python-A78BFA?style=flat-square&logo=python&logoColor=white" />
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
-  <img src="https://img.shields.io/badge/SQL-Queries-34D399?style=flat-square&logo=mysql&logoColor=white" />
+<p align="center">
 
-  <img src="https://img.shields.io/badge/BI-Power%20BI-FBBF24?style=flat-square&logo=powerbi&logoColor=white" />
+<img
+src="https://github-readme-stats-fast.vercel.app/api?username=TechMohanraj04&show_icons=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0&icon_color=A78BFA&border_color=38BDF8&border_radius=10"
+width="100%"
+style="max-width:440px"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TechMohanraj04&layout=compact&bg_color=020617&title_color=A78BFA&text_color=E2E8F0&border_color=A78BFA&border_radius=10"
+width="100%"
+style="max-width:350px"
+alt="Top Languages"
+/>
 
 </p>
 
-<!-- ====================== TOOLBOX ========================== -->
+<p align="center">
 
-<h2 align="center">🧰 Tools I Work With</h2>
+<img
+src="https://streak-stats.demolab.com?user=TechMohanraj04&theme=dark&hide_border=false&border=38BDF8&background=020617&ring=38BDF8&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=38BDF8&dates=94A3B8"
+width="100%"
+style="max-width:500px"
+alt="GitHub Streak"
+/>
 
-<table width="100%" align="center">
+</p>
 
-  <tr>
-    <th align="center">Category</th>
-    <th align="center">Tools / Technologies</th>
-  </tr>
+<!-- ========================================================= -->
+<!--                    CONTRIBUTIONS                          -->
+<!-- ========================================================= -->
 
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td align="center">Python • SQL</td>
-  </tr>
+<h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
 
-  <tr>
-    <td align="center"><b>Analytics</b></td>
-    <td align="center">Excel • Pandas • NumPy • Matplotlib</td>
-  </tr>
+<p align="center">
 
-  <tr>
-    <td align="center"><b>BI</b></td>
-    <td align="center">Power BI</td>
-  </tr>
+<img
+src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="GitHub Contribution Snake"
+/>
 
-  <tr>
-    <td align="center"><b>Machine Learning</b></td>
-    <td align="center">Scikit-learn • XGBoost • Clustering</td>
-  </tr>
+</p>
 
-  <tr>
-    <td align="center"><b>AI / Computer Vision</b></td>
-    <td align="center">YOLO • OCR • NER • OpenCV</td>
-  </tr>
+<!-- ========================================================= -->
+<!--                    CURRENT FOCUS                          -->
+<!-- ========================================================= -->
 
-  <tr>
-    <td align="center"><b>Experimentation</b></td>
-    <td align="center">MLflow</td>
-  </tr>
+<h2 align="center">🎯 CURRENT FOCUS</h2>
 
-  <tr>
-    <td align="center"><b>Deployment</b></td>
-    <td align="center">Streamlit</td>
-  </tr>
+<table width="100%" border="0">
 
-  <tr>
-    <td align="center"><b>Environment</b></td>
-    <td align="center">Jupyter Notebook • Google Colab • VS Code</td>
-  </tr>
+<tr>
 
-  <tr>
-    <td align="center"><b>Version Control</b></td>
-    <td align="center">Git • GitHub</td>
-  </tr>
+<td align="center" width="25%" style="padding:20px">
+
+<h2>📊</h2>
+
+<b>DATA ANALYTICS</b>
+
+<br><br>
+
+<sub>
+Python<br>
+SQL<br>
+Excel<br>
+Power BI
+</sub>
+
+</td>
+
+<td align="center" width="25%" style="padding:20px">
+
+<h2>🤖</h2>
+
+<b>MACHINE LEARNING</b>
+
+<br><br>
+
+<sub>
+Scikit-learn<br>
+XGBoost<br>
+MLflow<br>
+Predictive Analytics
+</sub>
+
+</td>
+
+<td align="center" width="25%" style="padding:20px">
+
+<h2>👁️</h2>
+
+<b>COMPUTER VISION</b>
+
+<br><br>
+
+<sub>
+YOLO<br>
+OCR<br>
+Deep Learning<br>
+Image Analysis
+</sub>
+
+</td>
+
+<td align="center" width="25%" style="padding:20px">
+
+<h2>🚀</h2>
+
+<b>BUILDING</b>
+
+<br><br>
+
+<sub>
+Real-world Projects<br>
+Dashboards<br>
+AI Applications<br>
+Continuous Learning
+</sub>
+
+</td>
+
+</tr>
 
 </table>
 
-<!-- ==================== GITHUB ANALYTICS =================== -->
+<!-- ========================================================= -->
+<!--                    CAREER DIRECTION                       -->
+<!-- ========================================================= -->
 
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
+<h2 align="center">🚀 WHERE I'M HEADING</h2>
 
 <p align="center">
 
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=TechMohanraj04&show_icons=true&bg_color=0A0A0A&title_color=38BDF8&text_color=F3F4F6&icon_color=A78BFA&border_color=38BDF8&border_radius=8"
-    width="100%"
-    style="max-width: 440px;"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TechMohanraj04&layout=compact&bg_color=0A0A0A&title_color=A78BFA&text_color=F3F4F6&border_color=A78BFA&border_radius=8"
-    width="100%"
-    style="max-width: 350px;"
-    alt="Top Languages"
-  />
+<b>Data Analyst → Analytics → AI</b>
 
 </p>
 
 <p align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=TechMohanraj04&theme=dark&hide_border=false&border=38BDF8&background=0A0A0A&ring=38BDF8&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=38BDF8&dates=999999"
-    width="100%"
-    style="max-width: 480px;"
-    alt="GitHub Streak"
-  />
-
-</p>
-
-<!-- ========================= QUOTE ========================= -->
-
-<p align="center">
-
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=720&height=32&lines=Data+is+everywhere.+Insights+come+from+asking+the+right+questions."
-    width="100%"
-    style="max-width: 720px;"
-    alt="Analytics Quote"
-  />
-
-</p>
-
-<!-- ================= CONTRIBUTION JOURNEY ================== -->
-
-<h2 align="center">🐍 Contribution Journey</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake Animation"
-  />
-</p>
-
-<!-- ===================== CURRENT FOCUS ====================== -->
-
-<h2 align="center">🎯 Current Focus</h2>
-
-<table width="100%" border="0" align="center">
-
-  <tr>
-
-    <td align="center" width="33%" style="padding: 18px;">
-
-      <h3>📊</h3>
-
-      <b>Data Analytics</b>
-
-      <br />
-
-      <sub>
-        Python • SQL • Excel • Power BI
-      </sub>
-
-    </td>
-
-    <td align="center" width="33%" style="padding: 18px;">
-
-      <h3>🤖</h3>
-
-      <b>AI & Machine Learning</b>
-
-      <br />
-
-      <sub>
-        ML • XGBoost • Computer Vision
-      </sub>
-
-    </td>
-
-    <td align="center" width="33%" style="padding: 18px;">
-
-      <h3>💡</h3>
-
-      <b>Real-World Projects</b>
-
-      <br />
-
-      <sub>
-        Building practical data-driven solutions
-      </sub>
-
-    </td>
-
-  </tr>
-
-</table>
-
-<!-- ===================== CAREER OBJECTIVE ================== -->
-
-<h2 align="center">🚀 Career Objective</h2>
-
-<p align="center">
-
-  I am building my professional path toward
-  <b>Data Analyst and Analytics-focused roles</b>,
-  combining my experience in supply chain analytics with
-  hands-on skills in data analysis, business intelligence,
-  machine learning and AI.
+I'm developing a strong combination of
+<b>business understanding, analytical thinking,
+technical skills and AI capabilities</b>.
 
 </p>
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Data%20Analytics-38BDF8?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=0A0A0A" />
-
-  <img src="https://img.shields.io/badge/Business%20Intelligence-A78BFA?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0A0A0A" />
-
-  <img src="https://img.shields.io/badge/Machine%20Learning-34D399?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0A0A0A" />
-
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-F97316?style=for-the-badge&logo=google&logoColor=white&labelColor=0A0A0A" />
+My goal is to build solutions where
+<b>data analysis and artificial intelligence</b>
+work together to solve practical business problems.
 
 </p>
 
-<!-- ===================== LET'S CONNECT ====================== -->
-
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
-
 <p align="center">
 
-  <i>
-    Interested in data analytics, machine learning, AI projects,
-    dashboards or practical data-driven solutions?
-  </i>
+<img src="https://img.shields.io/badge/DATA-38BDF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/INSIGHTS-A78BFA?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/AI-34D399?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/IMPACT-F97316?style=for-the-badge&labelColor=020617"/>
 
+</p>
+
+<!-- ========================================================= -->
+<!--                  LET'S CONNECT                            -->
+<!-- ========================================================= -->
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<p align="center">
+<i>
+Have a data problem, an interesting project, or simply want to connect?
+</i>
 </p>
 
 <table border="0" align="center">
 
-  <tr>
+<tr>
 
-    <td align="center" width="220" style="padding: 16px;">
+<td align="center" width="250" style="padding:20px">
 
-      <a
-        href="https://www.linkedin.com/in/mohan-raj-d-90b52223/"
-        target="_blank"
-      >
+<a href="https://www.linkedin.com/in/mohan-raj-d-90b52223/" target="_blank">
 
-        <img
-          src="https://skillicons.dev/icons?i=linkedin"
-          width="60"
-          height="60"
-          alt="LinkedIn"
-        />
+<img
+src="https://skillicons.dev/icons?i=linkedin"
+width="65"
+height="65"
+alt="LinkedIn"
+/>
 
-        <br />
-        <br />
+<br><br>
 
-        <img
-          src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"
-          alt="LinkedIn"
-        />
+<img
+src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617"
+alt="LinkedIn"
+/>
 
-      </a>
+</a>
 
-      <br />
+<br>
 
-      <sub><b>Professional Network</b></sub>
+<sub><b>Professional Network</b></sub>
 
-    </td>
+</td>
 
-    <td align="center" width="220" style="padding: 16px;">
 
-      <a href="mailto:mohanrajdeena2002@gmail.com">
+<td align="center" width="250" style="padding:20px">
 
-        <img
-          src="https://skillicons.dev/icons?i=gmail"
-          width="60"
-          height="60"
-          alt="Gmail"
-        />
+<a href="mailto:mohanrajdeena2002@gmail.com">
 
-        <br />
-        <br />
+<img
+src="https://skillicons.dev/icons?i=gmail"
+width="65"
+height="65"
+alt="Email"
+/>
 
-        <img
-          src="https://img.shields.io/badge/Email-Contact%20Me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A"
-          alt="Email"
-        />
+<br><br>
 
-      </a>
+<img
+src="https://img.shields.io/badge/Email-Contact%20Me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"
+alt="Email"
+/>
 
-      <br />
+</a>
 
-      <sub><b>Direct Collaboration</b></sub>
+<br>
 
-    </td>
+<sub><b>Direct Contact</b></sub>
 
-    <td align="center" width="220" style="padding: 16px;">
+</td>
 
-      <a
-        href="https://github.com/TechMohanraj04"
-        target="_blank"
-      >
 
-        <img
-          src="https://skillicons.dev/icons?i=github"
-          width="60"
-          height="60"
-          alt="GitHub"
-        />
+<td align="center" width="250" style="padding:20px">
 
-        <br />
-        <br />
+<a href="https://github.com/TechMohanraj04" target="_blank">
 
-        <img
-          src="https://img.shields.io/badge/GitHub-Explore-34D399?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"
-          alt="GitHub"
-        />
+<img
+src="https://skillicons.dev/icons?i=github"
+width="65"
+height="65"
+alt="GitHub"
+/>
 
-      </a>
+<br><br>
 
-      <br />
+<img
+src="https://img.shields.io/badge/GitHub-Explore-34D399?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"
+alt="GitHub"
+/>
 
-      <sub><b>Projects & Code</b></sub>
+</a>
 
-    </td>
+<br>
 
-  </tr>
+<sub><b>Projects & Code</b></sub>
+
+</td>
+
+</tr>
 
 </table>
 
-<!-- ========================= FOOTER ======================== -->
+<br>
 
-<br />
+<!-- ========================================================= -->
+<!--                         FINAL                             -->
+<!-- ========================================================= -->
 
 <p align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,25:312E81,50:172554,75:111827,100:09090B&height=140&section=footer&text=Keep%20Learning%20%7C%20Keep%20Building%20%7C%20Keep%20Growing&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65"
-    width="100%"
-    alt="Footer"
-  />
+<img
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=760&height=32&lines=Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve+%E2%86%92+Repeat."
+width="100%"
+style="max-width:760px"
+alt="Final Message"
+/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,25:312E81,50:172554,75:0F172A,100:020617&height=150&section=footer&text=KEEP%20LEARNING%20%E2%80%A2%20KEEP%20BUILDING%20%E2%80%A2%20KEEP%20GROWING&fontSize=19&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65"
+width="100%"
+alt="Footer"
+/>
 
 </p>
 
 <p align="center">
-  <sub>
-    © Mohanraj D • Data Analytics • AI • Machine Learning
-  </sub>
+<sub>
+<b>Mohanraj D</b> • Data Analytics • Machine Learning • AI
+</sub>
 </p>
